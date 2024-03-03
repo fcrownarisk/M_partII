@@ -1,0 +1,16 @@
+{
+  "files": {
+    "include": [
+      "geometry/CC/cone",
+      "geometry/CC/cone2",
+      "geometry/CC/conelight",
+      "geometry/CC/cube",
+      "geometry/CC/cube2",
+      "geometry/CC/cylinder",
+      "geometry/CC/cylinderxyz"
+    ],
+    "exclude": [
+      "geometry/topology/ChenClass.ts"
+    ]
+  }
+}
