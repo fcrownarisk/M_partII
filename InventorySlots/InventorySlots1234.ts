@@ -1,7 +1,7 @@
 import '../XYZT/x1y1z1t1'
 import '../XYZT/x2y2z2t2'
 import '../XYZT/x3y3z3t3'
-import '../bignumber/E'
+import '../bigletter/E'
 import '../bigletter/F'
 import '../bigletter/G'
 import '../bigletter/H'
