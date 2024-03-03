@@ -8,7 +8,7 @@ import '../eqaution/T'
 import '../geometry/fractal/useCanvas'
 void function CantorLine(){
        this.String =CantorLine.toString
-       this.String = CantorLine.toString
+       this.CantorLine = new CantorLine
 }
 void  function HilbertCurve(){
         this.Storage = new  HilbertCurve()
